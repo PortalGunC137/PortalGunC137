@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PortalGunC137
 
 - 👀 I’m interested in ...
-HTML, CSS, web design, bootstrap, Wordpress, Python, Ruby on Rails, politocal advocacy.
+HTML, CSS, web design, bootstrap, Wordpress, SEO, Python, Ruby on Rails, politocal advocacy.
 
 - 🌱 I’m currently learning ...
-Python.
+Python. Google Adds, 
 
 - 💞️ I’m looking to collaborate on ...
 fun things. My next start up.
